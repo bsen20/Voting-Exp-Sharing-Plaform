@@ -1,0 +1,4084 @@
+{
+  "states": [
+    {
+      "name": "Andhra Pradesh",
+      "number_of_loksabha_constituencies": 25,
+      "loksabha_constituencies": [
+        {
+          "name": "Srikakulam",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.8833, 18.3516]
+          }
+        },
+        {
+          "name": "Parvathipuram",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.4279, 18.7835]
+          }
+        },
+        {
+          "name": "Araku",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.8064, 18.3053]
+          }
+        },
+        {
+          "name": "Vizianagaram",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.3949, 18.1068]
+          }
+        },
+        {
+          "name": "Visakhapatnam",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.3146, 17.6868]
+          }
+        },
+        {
+          "name": "Anakapalli",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.9925, 17.6892]
+          }
+        },
+        {
+          "name": "Kakinada",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.2167, 16.9891]
+          }
+        },
+        {
+          "name": "Amalapuram",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.0188, 16.5842]
+          }
+        },
+        {
+          "name": "Rajahmundry",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.804, 16.978]
+          }
+        },
+        {
+          "name": "Narsapuram",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.4306, 16.4293]
+          }
+        },
+        {
+          "name": "Eluru",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.104, 16.7204]
+          }
+        },
+        {
+          "name": "Machilipatnam",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.1308, 16.1875]
+          }
+        },
+        {
+          "name": "Vijayawada",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.6474, 16.5207]
+          }
+        },
+        {
+          "name": "Guntur",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.4511, 16.2997]
+          }
+        },
+        {
+          "name": "Narasaraopet",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.0605, 16.2356]
+          }
+        },
+        {
+          "name": "Bapatla",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.4704, 15.8963]
+          }
+        },
+        {
+          "name": "Ongole",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.0476, 15.5057]
+          }
+        },
+        {
+          "name": "Nandyal",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.482, 15.4876]
+          }
+        },
+        {
+          "name": "Kurnool",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.0373, 15.8281]
+          }
+        },
+        {
+          "name": "Anantapur",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.5984, 14.6776]
+          }
+        },
+        {
+          "name": "Hindupur",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.4953, 13.8247]
+          }
+        },
+        {
+          "name": "Kadapa",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.8109, 14.4644]
+          }
+        },
+        {
+          "name": "Nellore",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.9884, 14.4426]
+          }
+        },
+        {
+          "name": "Tirupati",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.4181, 13.6355]
+          }
+        },
+        {
+          "name": "Rajampet",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.3622, 14.1754]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "number_of_loksabha_constituencies": 2,
+      "loksabha_constituencies": [
+        {
+          "name": "Arunachal West",
+          "location": {
+            "type": "Point",
+            "coordinates": [93.6956, 27.0879]
+          }
+        },
+        {
+          "name": "Arunachal East",
+          "location": {
+            "type": "Point",
+            "coordinates": [95.6956, 27.1677]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Assam",
+      "number_of_loksabha_constituencies": 14,
+      "loksabha_constituencies": [
+        {
+          "name": "Karimganj",
+          "location": {
+            "type": "Point",
+            "coordinates": [92.2344, 24.8696]
+          }
+        },
+        {
+          "name": "Silchar",
+          "location": {
+            "type": "Point",
+            "coordinates": [92.797, 24.824]
+          }
+        },
+        {
+          "name": "Autonomous District",
+          "location": {
+            "type": "Point",
+            "coordinates": [92.6753, 25.5701]
+          }
+        },
+        {
+          "name": "Dhubri",
+          "location": {
+            "type": "Point",
+            "coordinates": [89.975, 26.037]
+          }
+        },
+        {
+          "name": "Kokrajhar",
+          "location": {
+            "type": "Point",
+            "coordinates": [90.2707, 26.4127]
+          }
+        },
+        {
+          "name": "Barpeta",
+          "location": {
+            "type": "Point",
+            "coordinates": [91.0138, 26.3263]
+          }
+        },
+        {
+          "name": "Gauhati",
+          "location": {
+            "type": "Point",
+            "coordinates": [91.7362, 26.1445]
+          }
+        },
+        {
+          "name": "Mangaldoi",
+          "location": {
+            "type": "Point",
+            "coordinates": [92.6781, 26.4325]
+          }
+        },
+        {
+          "name": "Tezpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [92.7804, 26.648]
+          }
+        },
+        {
+          "name": "Nowgong",
+          "location": {
+            "type": "Point",
+            "coordinates": [92.7491, 26.142]
+          }
+        },
+        {
+          "name": "Kaliabor",
+          "location": {
+            "type": "Point",
+            "coordinates": [93.1942, 26.4889]
+          }
+        },
+        {
+          "name": "Jorhat",
+          "location": {
+            "type": "Point",
+            "coordinates": [94.196, 26.7576]
+          }
+        },
+        {
+          "name": "Dibrugarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [94.926, 27.4728]
+          }
+        },
+        {
+          "name": "Lakhimpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [94.1478, 27.613]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bihar",
+      "number_of_loksabha_constituencies": 40,
+      "loksabha_constituencies": [
+        {
+          "name": "Valmiki Nagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.2128, 27.1591]
+          }
+        },
+        {
+          "name": "Purvi Champaran",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.29, 26.6835]
+          }
+        },
+        {
+          "name": "Paschim Champaran",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.4997, 27.078]
+          }
+        },
+        {
+          "name": "Sheohar",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.3039, 26.5001]
+          }
+        },
+        {
+          "name": "Sitamarhi",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.4955, 26.6014]
+          }
+        },
+        {
+          "name": "Madhubani",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.0404, 26.3453]
+          }
+        },
+        {
+          "name": "Jhanjharpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.987, 26.4399]
+          }
+        },
+        {
+          "name": "Supaul",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.6078, 26.1209]
+          }
+        },
+        {
+          "name": "Araria",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.574, 26.1463]
+          }
+        },
+        {
+          "name": "Kishanganj",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.9359, 26.0992]
+          }
+        },
+        {
+          "name": "Katihar",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.5696, 25.5504]
+          }
+        },
+        {
+          "name": "Purnia",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.5131, 25.7781]
+          }
+        },
+        {
+          "name": "Madhepura",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.9305, 25.9327]
+          }
+        },
+        {
+          "name": "Darbhanga",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.8959, 26.1604]
+          }
+        },
+        {
+          "name": "Muzaffarpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.399, 26.1183]
+          }
+        },
+        {
+          "name": "Vaishali",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.1245, 25.9873]
+          }
+        },
+        {
+          "name": "Gopalganj",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.4008, 26.4461]
+          }
+        },
+        {
+          "name": "Siwan",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.3567, 26.1209]
+          }
+        },
+        {
+          "name": "Maharajganj",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.9476, 26.1509]
+          }
+        },
+        {
+          "name": "Saran",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.8736, 25.9535]
+          }
+        },
+        {
+          "name": "Hajipur",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.2075, 25.6857]
+          }
+        },
+        {
+          "name": "Ujiarpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.6556, 25.754]
+          }
+        },
+        {
+          "name": "Samastipur",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.837, 25.8601]
+          }
+        },
+        {
+          "name": "Begusarai",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.1299, 25.543]
+          }
+        },
+        {
+          "name": "Khagaria",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.5896, 25.5253]
+          }
+        },
+        {
+          "name": "Bhagalpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.0211, 25.411]
+          }
+        },
+        {
+          "name": "Banka",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.9036, 24.8851]
+          }
+        },
+        {
+          "name": "Munger",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.436, 25.3759]
+          }
+        },
+        {
+          "name": "Nalanda",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.3466, 25.0855]
+          }
+        },
+        {
+          "name": "Patna Sahib",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.1368, 25.6196]
+          }
+        },
+        {
+          "name": "Pataliputra",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.0916, 25.5837]
+          }
+        },
+        {
+          "name": "Arrah",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.6778, 25.562]
+          }
+        },
+        {
+          "name": "Buxar",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.9774, 25.5837]
+          }
+        },
+        {
+          "name": "Sasaram",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.0167, 24.9499]
+          }
+        },
+        {
+          "name": "Karakat",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.5944, 24.8135]
+          }
+        },
+        {
+          "name": "Jahanabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.9939, 25.0361]
+          }
+        },
+        {
+          "name": "Gaya",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.0012, 24.7955]
+          }
+        },
+        {
+          "name": "Nawada",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.5356, 24.8798]
+          }
+        },
+        {
+          "name": "Jamui",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.18, 24.9255]
+          }
+        },
+        {
+          "name": "Aurangabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.2233, 24.7467]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chhattisgarh",
+      "number_of_loksabha_constituencies": 11,
+      "loksabha_constituencies": [
+        {
+          "name": "Surguja",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.9526, 23.6803]
+          }
+        },
+        {
+          "name": "Raigarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.4022, 21.9023]
+          }
+        },
+        {
+          "name": "Janjgir-Champa",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.8406, 22.0226]
+          }
+        },
+        {
+          "name": "Korba",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.7237, 22.346]
+          }
+        },
+        {
+          "name": "Bilaspur",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.1449, 22.0796]
+          }
+        },
+        {
+          "name": "Rajnandgaon",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.9826, 21.0979]
+          }
+        },
+        {
+          "name": "Durg",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.2696, 21.1843]
+          }
+        },
+        {
+          "name": "Raipur",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.8661, 21.2514]
+          }
+        },
+        {
+          "name": "Mahasamund",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.1, 21.1]
+          }
+        },
+        {
+          "name": "Kanker",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.4998, 20.2724]
+          }
+        },
+        {
+          "name": "Bastar",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.7376, 18.8003]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Goa",
+      "number_of_loksabha_constituencies": 2,
+      "loksabha_constituencies": [
+        {
+          "name": "North Goa",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.8654, 15.4909]
+          }
+        },
+        {
+          "name": "South Goa",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.124, 15.1932]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gujarat",
+      "number_of_loksabha_constituencies": 26,
+      "loksabha_constituencies": [
+        {
+          "name": "Kachchh",
+          "location": {
+            "type": "Point",
+            "coordinates": [69.8597, 23.7337]
+          }
+        },
+        {
+          "name": "Banaskantha",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.9133, 24.0467]
+          }
+        },
+        {
+          "name": "Patan",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.2267, 23.808]
+          }
+        },
+        {
+          "name": "Mehsana",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.4086, 23.5823]
+          }
+        },
+        {
+          "name": "Sabarkantha",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.4062, 23.6375]
+          }
+        },
+        {
+          "name": "Gandhinagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.6492, 23.2156]
+          }
+        },
+        {
+          "name": "Ahmedabad East",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.6324, 23.0225]
+          }
+        },
+        {
+          "name": "Ahmedabad West",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.5367, 22.9943]
+          }
+        },
+        {
+          "name": "Surendranagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [71.6711, 22.7227]
+          }
+        },
+        {
+          "name": "Rajkot",
+          "location": {
+            "type": "Point",
+            "coordinates": [70.7824, 22.3045]
+          }
+        },
+        {
+          "name": "Porbandar",
+          "location": {
+            "type": "Point",
+            "coordinates": [69.6076, 21.6422]
+          }
+        },
+        {
+          "name": "Jamnagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [70.0822, 22.4707]
+          }
+        },
+        {
+          "name": "Junagadh",
+          "location": {
+            "type": "Point",
+            "coordinates": [70.4604, 21.5187]
+          }
+        },
+        {
+          "name": "Amreli",
+          "location": {
+            "type": "Point",
+            "coordinates": [71.2061, 21.6951]
+          }
+        },
+        {
+          "name": "Bhavnagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.1519, 21.7654]
+          }
+        },
+        {
+          "name": "Anand",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.9869, 22.5569]
+          }
+        },
+        {
+          "name": "Kheda",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.5603, 22.7499]
+          }
+        },
+        {
+          "name": "Panchmahal",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.5937, 22.5262]
+          }
+        },
+        {
+          "name": "Dahod",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.3416, 22.8403]
+          }
+        },
+        {
+          "name": "Vadodara",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.1812, 22.2994]
+          }
+        },
+        {
+          "name": "Chhota Udaipur",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.0888, 22.3039]
+          }
+        },
+        {
+          "name": "Bharuch",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.95, 21.75]
+          }
+        },
+        {
+          "name": "Bardoli",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.1571, 21.1211]
+          }
+        },
+        {
+          "name": "Surat",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.8311, 21.1702]
+          }
+        },
+        {
+          "name": "Navsari",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.9449, 20.9524]
+          }
+        },
+        {
+          "name": "Valsad",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.9176, 20.6326]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Haryana",
+      "number_of_loksabha_constituencies": 10,
+      "loksabha_constituencies": [
+        {
+          "name": "Ambala",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.84, 30.3782]
+          }
+        },
+        {
+          "name": "Kurukshetra",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.8503, 29.9695]
+          }
+        },
+        {
+          "name": "Sirsa",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.0569, 29.5839]
+          }
+        },
+        {
+          "name": "Hisar",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.7167, 29.1667]
+          }
+        },
+        {
+          "name": "Karnal",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.9905, 29.691]
+          }
+        },
+        {
+          "name": "Sonepat",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.0152, 29.0]
+          }
+        },
+        {
+          "name": "Rohtak",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.6132, 28.8955]
+          }
+        },
+        {
+          "name": "Bhiwani-Mahendragarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.1365, 28.7934]
+          }
+        },
+        {
+          "name": "Gurgaon",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.0266, 28.4595]
+          }
+        },
+        {
+          "name": "Faridabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.3178, 28.402]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Himachal Pradesh",
+      "number_of_loksabha_constituencies": 4,
+      "loksabha_constituencies": [
+        {
+          "name": "Kangra",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.2922, 32.101]
+          }
+        },
+        {
+          "name": "Mandi",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.0494, 31.7174]
+          }
+        },
+        {
+          "name": "Hamirpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.5214, 31.6844]
+          }
+        },
+        {
+          "name": "Shimla",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.1734, 31.1048]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jharkhand",
+      "number_of_loksabha_constituencies": 14,
+      "loksabha_constituencies": [
+        {
+          "name": "Rajmahal",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.5801, 24.8575]
+          }
+        },
+        {
+          "name": "Dumka",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.26, 24.269]
+          }
+        },
+        {
+          "name": "Godda",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.2118, 24.8337]
+          }
+        },
+        {
+          "name": "Chatra",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.8698, 24.2095]
+          }
+        },
+        {
+          "name": "Kodarma",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.5612, 24.4401]
+          }
+        },
+        {
+          "name": "Giridih",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.3007, 24.18]
+          }
+        },
+        {
+          "name": "Dhanbad",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.4526, 23.7957]
+          }
+        },
+        {
+          "name": "Ranchi",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.324, 23.3441]
+          }
+        },
+        {
+          "name": "Jamshedpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.2158, 22.7964]
+          }
+        },
+        {
+          "name": "Singhbhum",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.7019, 22.5232]
+          }
+        },
+        {
+          "name": "Khunti",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.2868, 23.0599]
+          }
+        },
+        {
+          "name": "Lohardaga",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.678, 23.4372]
+          }
+        },
+        {
+          "name": "Palamu",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.104, 24.0635]
+          }
+        },
+        {
+          "name": "Hazaribagh",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.3537, 23.9978]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karnataka",
+      "number_of_loksabha_constituencies": 28,
+      "loksabha_constituencies": [
+        {
+          "name": "Chikkodi",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.6298, 16.4304]
+          }
+        },
+        {
+          "name": "Belgaum",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.5142, 15.8503]
+          }
+        },
+        {
+          "name": "Bagalkot",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.6928, 16.1833]
+          }
+        },
+        {
+          "name": "Bijapur",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.7139, 16.8244]
+          }
+        },
+        {
+          "name": "Gulbarga",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.8356, 17.3355]
+          }
+        },
+        {
+          "name": "Raichur",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.355, 16.2124]
+          }
+        },
+        {
+          "name": "Bidar",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.5665, 17.9229]
+          }
+        },
+        {
+          "name": "Koppal",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.1542, 15.3478]
+          }
+        },
+        {
+          "name": "Bellary",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.9199, 15.1394]
+          }
+        },
+        {
+          "name": "Haveri",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.3824, 14.7937]
+          }
+        },
+        {
+          "name": "Dharwad",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.13, 15.4589]
+          }
+        },
+        {
+          "name": "Uttara Kannada",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.693, 14.765]
+          }
+        },
+        {
+          "name": "Davanagere",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.9259, 14.4644]
+          }
+        },
+        {
+          "name": "Shimoga",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.5741, 13.9299]
+          }
+        },
+        {
+          "name": "Udupi Chikmagalur",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.5005, 13.3409]
+          }
+        },
+        {
+          "name": "Hassan",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.1033, 12.9985]
+          }
+        },
+        {
+          "name": "Dakshina Kannada",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.7139, 12.97]
+          }
+        },
+        {
+          "name": "Chitradurga",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.3675, 14.2286]
+          }
+        },
+        {
+          "name": "Tumkur",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.101, 13.3392]
+          }
+        },
+        {
+          "name": "Mandya",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.8947, 12.5204]
+          }
+        },
+        {
+          "name": "Mysore",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.6394, 12.2958]
+          }
+        },
+        {
+          "name": "Chamarajanagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.255, 11.9271]
+          }
+        },
+        {
+          "name": "Bangalore Rural",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.3439, 13.1986]
+          }
+        },
+        {
+          "name": "Bangalore North",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.5937, 13.0575]
+          }
+        },
+        {
+          "name": "Bangalore Central",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.5959, 12.9831]
+          }
+        },
+        {
+          "name": "Bangalore South",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.5899, 12.9208]
+          }
+        },
+        {
+          "name": "Chikkballapur",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.7162, 13.4352]
+          }
+        },
+        {
+          "name": "Kolar",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.137, 13.1367]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kerala",
+      "number_of_loksabha_constituencies": 20,
+      "loksabha_constituencies": [
+        {
+          "name": "Kasaragod",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.9958, 12.5266]
+          }
+        },
+        {
+          "name": "Kannur",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.3557, 11.8753]
+          }
+        },
+        {
+          "name": "Vadakara",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.5812, 11.6058]
+          }
+        },
+        {
+          "name": "Wayanad",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.0422, 11.6859]
+          }
+        },
+        {
+          "name": "Kozhikode",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.7757, 11.2588]
+          }
+        },
+        {
+          "name": "Malappuram",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.2044, 11.0898]
+          }
+        },
+        {
+          "name": "Ponnani",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.9182, 10.7729]
+          }
+        },
+        {
+          "name": "Palakkad",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.6548, 10.7849]
+          }
+        },
+        {
+          "name": "Alathur",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.6227, 10.8703]
+          }
+        },
+        {
+          "name": "Thrissur",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.2144, 10.5276]
+          }
+        },
+        {
+          "name": "Chalakudy",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.3314, 10.3056]
+          }
+        },
+        {
+          "name": "Ernakulam",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.2883, 10.0476]
+          }
+        },
+        {
+          "name": "Idukki",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.1541, 9.8494]
+          }
+        },
+        {
+          "name": "Kottayam",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.5144, 9.5707]
+          }
+        },
+        {
+          "name": "Alappuzha",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.3332, 9.4981]
+          }
+        },
+        {
+          "name": "Mavelikkara",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.5501, 9.2346]
+          }
+        },
+        {
+          "name": "Pathanamthitta",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.7874, 9.265]
+          }
+        },
+        {
+          "name": "Kollam",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.6012, 8.8867]
+          }
+        },
+        {
+          "name": "Attingal",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.8274, 8.7341]
+          }
+        },
+        {
+          "name": "Thiruvananthapuram",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.9366, 8.5241]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Madhya Pradesh",
+      "number_of_loksabha_constituencies": 29,
+      "loksabha_constituencies": [
+        {
+          "name": "Morena",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.9938, 26.4967]
+          }
+        },
+        {
+          "name": "Bhind",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.7728, 26.5662]
+          }
+        },
+        {
+          "name": "Gwalior",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.1699, 26.2183]
+          }
+        },
+        {
+          "name": "Guna",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.3356, 24.6463]
+          }
+        },
+        {
+          "name": "Sagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.7665, 23.8432]
+          }
+        },
+        {
+          "name": "Tikamgarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.8378, 24.7435]
+          }
+        },
+        {
+          "name": "Damoh",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.4486, 23.8336]
+          }
+        },
+        {
+          "name": "Khajuraho",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.9194, 24.8516]
+          }
+        },
+        {
+          "name": "Satna",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.8338, 24.5773]
+          }
+        },
+        {
+          "name": "Rewa",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.2981, 24.532]
+          }
+        },
+        {
+          "name": "Sidhi",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.5812, 24.4199]
+          }
+        },
+        {
+          "name": "Shahdol",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.3438, 23.3438]
+          }
+        },
+        {
+          "name": "Jabalpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.9817, 23.1815]
+          }
+        },
+        {
+          "name": "Mandla",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.3718, 22.5967]
+          }
+        },
+        {
+          "name": "Balaghat",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.1812, 21.8116]
+          }
+        },
+        {
+          "name": "Chhindwara",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.9414, 22.0576]
+          }
+        },
+        {
+          "name": "Hoshangabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.7499, 22.7549]
+          }
+        },
+        {
+          "name": "Betul",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.9288, 21.9083]
+          }
+        },
+        {
+          "name": "Vidisha",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.802, 23.532]
+          }
+        },
+        {
+          "name": "Bhopal",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.4126, 23.2599]
+          }
+        },
+        {
+          "name": "Rajgarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.833, 24.4449]
+          }
+        },
+        {
+          "name": "Dewas",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.0599, 22.9659]
+          }
+        },
+        {
+          "name": "Ujjain",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.7885, 23.1824]
+          }
+        },
+        {
+          "name": "Mandsour",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.1004, 24.0716]
+          }
+        },
+        {
+          "name": "Ratlam",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.0389, 23.3541]
+          }
+        },
+        {
+          "name": "Dhar",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.2932, 22.601]
+          }
+        },
+        {
+          "name": "Indore",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.8577, 22.7196]
+          }
+        },
+        {
+          "name": "Khargone",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.637, 21.8269]
+          }
+        },
+        {
+          "name": "Khandwa",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.3425, 21.822]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maharashtra",
+      "number_of_loksabha_constituencies": 48,
+      "loksabha_constituencies": [
+        {
+          "name": "Nandurbar",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.241, 21.3769]
+          }
+        },
+        {
+          "name": "Dhule",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.7734, 20.9069]
+          }
+        },
+        {
+          "name": "Jalgaon",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.5612, 21.03]
+          }
+        },
+        {
+          "name": "Raver",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.5869, 21.3049]
+          }
+        },
+        {
+          "name": "Buldhana",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.1754, 20.6087]
+          }
+        },
+        {
+          "name": "Akola",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.0003, 20.711]
+          }
+        },
+        {
+          "name": "Amravati",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.7636, 20.933]
+          }
+        },
+        {
+          "name": "Wardha",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.5976, 20.7386]
+          }
+        },
+        {
+          "name": "Ramtek",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.2255, 21.3736]
+          }
+        },
+        {
+          "name": "Nagpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.0882, 21.1458]
+          }
+        },
+        {
+          "name": "Bhandara-Gondiya",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.2037, 21.5904]
+          }
+        },
+        {
+          "name": "Gadchiroli-Chimur",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.952, 19.9734]
+          }
+        },
+        {
+          "name": "Chandrapur",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.3013, 19.9615]
+          }
+        },
+        {
+          "name": "Yavatmal-Washim",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.8546, 20.2359]
+          }
+        },
+        {
+          "name": "Hingoli",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.151, 19.6709]
+          }
+        },
+        {
+          "name": "Nanded",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.3271, 19.1556]
+          }
+        },
+        {
+          "name": "Parbhani",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.768, 19.2703]
+          }
+        },
+        {
+          "name": "Jalna",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.8774, 19.8485]
+          }
+        },
+        {
+          "name": "Aurangabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.3433, 19.8762]
+          }
+        },
+        {
+          "name": "Dindori",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.8977, 20.3778]
+          }
+        },
+        {
+          "name": "Nashik",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.7898, 20.0112]
+          }
+        },
+        {
+          "name": "Palghar",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.1897, 19.6964]
+          }
+        },
+        {
+          "name": "Bhiwandi",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.0551, 19.3002]
+          }
+        },
+        {
+          "name": "Kalyan",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.131, 19.2461]
+          }
+        },
+        {
+          "name": "Thane",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.9781, 19.2183]
+          }
+        },
+        {
+          "name": "Mumbai North",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.8258, 19.081]
+          }
+        },
+        {
+          "name": "Mumbai North West",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.8328, 19.1731]
+          }
+        },
+        {
+          "name": "Mumbai North East",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.9236, 19.0717]
+          }
+        },
+        {
+          "name": "Mumbai North Central",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.8518, 19.072]
+          }
+        },
+        {
+          "name": "Mumbai South Central",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.8486, 18.982]
+          }
+        },
+        {
+          "name": "Mumbai South",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.8258, 18.9617]
+          }
+        },
+        {
+          "name": "Raigad",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.1196, 18.4264]
+          }
+        },
+        {
+          "name": "Maval",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.539, 18.701]
+          }
+        },
+        {
+          "name": "Pune",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.8567, 18.5204]
+          }
+        },
+        {
+          "name": "Baramati",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.5945, 18.1505]
+          }
+        },
+        {
+          "name": "Shirur",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.1688, 18.8291]
+          }
+        },
+        {
+          "name": "Ahmednagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.7496, 19.0947]
+          }
+        },
+        {
+          "name": "Shirdi",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.4817, 19.7602]
+          }
+        },
+        {
+          "name": "Beed",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.7694, 18.9946]
+          }
+        },
+        {
+          "name": "Osmanabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.0494, 18.1861]
+          }
+        },
+        {
+          "name": "Latur",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.5696, 18.4088]
+          }
+        },
+        {
+          "name": "Solapur",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.9064, 17.6599]
+          }
+        },
+        {
+          "name": "Madha",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.6711, 17.7071]
+          }
+        },
+        {
+          "name": "Sangli",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.5751, 16.8661]
+          }
+        },
+        {
+          "name": "Satara",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.026, 17.6884]
+          }
+        },
+        {
+          "name": "Ratnagiri-Sindhudurg",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.574, 17.0002]
+          }
+        },
+        {
+          "name": "Kolhapur",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.2484, 16.705]
+          }
+        },
+        {
+          "name": "Hatkanangle",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.5723, 16.256]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Manipur",
+      "number_of_loksabha_constituencies": 2,
+      "loksabha_constituencies": [
+        {
+          "name": "Outer Manipur",
+          "location": {
+            "type": "Point",
+            "coordinates": [94.39, 24.8559]
+          }
+        },
+        {
+          "name": "Inner Manipur",
+          "location": {
+            "type": "Point",
+            "coordinates": [93.9368, 24.8169]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Meghalaya",
+      "number_of_loksabha_constituencies": 2,
+      "loksabha_constituencies": [
+        {
+          "name": "Shillong",
+          "location": {
+            "type": "Point",
+            "coordinates": [91.8825, 25.5788]
+          }
+        },
+        {
+          "name": "Tura",
+          "location": {
+            "type": "Point",
+            "coordinates": [90.5185, 25.5142]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mizoram",
+      "number_of_loksabha_constituencies": 1,
+      "loksabha_constituencies": [
+        {
+          "name": "Mizoram",
+          "location": {
+            "type": "Point",
+            "coordinates": [92.9376, 23.7337]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nagaland",
+      "number_of_loksabha_constituencies": 1,
+      "loksabha_constituencies": [
+        {
+          "name": "Nagaland",
+          "location": {
+            "type": "Point",
+            "coordinates": [94.1211, 26.1584]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Odisha",
+      "number_of_loksabha_constituencies": 21,
+      "loksabha_constituencies": [
+        {
+          "name": "Bargarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.6196, 21.3331]
+          }
+        },
+        {
+          "name": "Sundargarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.0153, 22.1425]
+          }
+        },
+        {
+          "name": "Balangir",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.1526, 20.7074]
+          }
+        },
+        {
+          "name": "Kalahandi",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.1647, 19.8273]
+          }
+        },
+        {
+          "name": "Nabarangpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.799, 19.2407]
+          }
+        },
+        {
+          "name": "Koraput",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.7504, 18.7861]
+          }
+        },
+        {
+          "name": "Kandhamal",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.0473, 20.3046]
+          }
+        },
+        {
+          "name": "Cuttack",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.8991, 20.4625]
+          }
+        },
+        {
+          "name": "Kendrapara",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.3944, 20.5025]
+          }
+        },
+        {
+          "name": "Jagatsinghpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.1484, 20.2601]
+          }
+        },
+        {
+          "name": "Puri",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.8266, 19.8134]
+          }
+        },
+        {
+          "name": "Bhubaneswar",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.8287, 20.2961]
+          }
+        },
+        {
+          "name": "Aska",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.8283, 19.5695]
+          }
+        },
+        {
+          "name": "Berhampur",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.7932, 19.3233]
+          }
+        },
+        {
+          "name": "Sambalpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.9522, 21.4707]
+          }
+        },
+        {
+          "name": "Keonjhar",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.5816, 21.6288]
+          }
+        },
+        {
+          "name": "Mayurbhanj",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.3922, 21.755]
+          }
+        },
+        {
+          "name": "Balasore",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.905, 21.4645]
+          }
+        },
+        {
+          "name": "Bhadrak",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.4196, 21.0567]
+          }
+        },
+        {
+          "name": "Jajpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.4081, 20.8524]
+          }
+        },
+        {
+          "name": "Dhenkanal",
+          "location": {
+            "type": "Point",
+            "coordinates": [85.5812, 20.6647]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Punjab",
+      "number_of_loksabha_constituencies": 13,
+      "loksabha_constituencies": [
+        {
+          "name": "Gurdaspur",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.0436, 32.0389]
+          }
+        },
+        {
+          "name": "Amritsar",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.8653, 31.634]
+          }
+        },
+        {
+          "name": "Khadoor Sahib",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.1366, 31.8026]
+          }
+        },
+        {
+          "name": "Jalandhar",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.5829, 31.326]
+          }
+        },
+        {
+          "name": "Hoshiarpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.9129, 31.5279]
+          }
+        },
+        {
+          "name": "Anandpur Sahib",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.2634, 31.2366]
+          }
+        },
+        {
+          "name": "Ludhiana",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.877, 30.901]
+          }
+        },
+        {
+          "name": "Fatehgarh Sahib",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.3481, 30.6367]
+          }
+        },
+        {
+          "name": "Faridkot",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.7555, 30.6744]
+          }
+        },
+        {
+          "name": "Ferozpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.6269, 30.9455]
+          }
+        },
+        {
+          "name": "Bathinda",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.9647, 30.211]
+          }
+        },
+        {
+          "name": "Sangrur",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.8404, 30.2434]
+          }
+        },
+        {
+          "name": "Patiala",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.3869, 30.3398]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rajasthan",
+      "number_of_loksabha_constituencies": 25,
+      "loksabha_constituencies": [
+        {
+          "name": "Ganganagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.8919, 29.9038]
+          }
+        },
+        {
+          "name": "Bikaner",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.3169, 28.0229]
+          }
+        },
+        {
+          "name": "Churu",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.9647, 28.302]
+          }
+        },
+        {
+          "name": "Jhunjhunu",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.3941, 28.1289]
+          }
+        },
+        {
+          "name": "Sikar",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.1376, 27.6094]
+          }
+        },
+        {
+          "name": "Jaipur Rural",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.6715, 27.0734]
+          }
+        },
+        {
+          "name": "Jaipur",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.7873, 26.9124]
+          }
+        },
+        {
+          "name": "Alwar",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.5604, 27.5654]
+          }
+        },
+        {
+          "name": "Bharatpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.4819, 27.2138]
+          }
+        },
+        {
+          "name": "Karauli-Dholpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.2315, 26.4822]
+          }
+        },
+        {
+          "name": "Dausa",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.3322, 26.9074]
+          }
+        },
+        {
+          "name": "Tonk-Sawai Madhopur",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.4214, 25.8967]
+          }
+        },
+        {
+          "name": "Ajmer",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.737, 26.4628]
+          }
+        },
+        {
+          "name": "Nagaur",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.7384, 27.2486]
+          }
+        },
+        {
+          "name": "Pali",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.6337, 25.8257]
+          }
+        },
+        {
+          "name": "Jodhpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.0305, 26.2389]
+          }
+        },
+        {
+          "name": "Barmer",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.9208, 25.7501]
+          }
+        },
+        {
+          "name": "Jalore",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.8097, 25.3451]
+          }
+        },
+        {
+          "name": "Udaipur",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.7147, 24.5854]
+          }
+        },
+        {
+          "name": "Banswara",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.4415, 23.5461]
+          }
+        },
+        {
+          "name": "Chittorgarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.625, 24.8826]
+          }
+        },
+        {
+          "name": "Rajsamand",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.8851, 25.1721]
+          }
+        },
+        {
+          "name": "Bhilwara",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.6914, 25.339]
+          }
+        },
+        {
+          "name": "Kota",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.8648, 25.2138]
+          }
+        },
+        {
+          "name": "Jhalawar-Baran",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.229, 24.5787]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tamil Nadu",
+      "number_of_loksabha_constituencies": 39,
+      "loksabha_constituencies": [
+        {
+          "name": "Thiruvallur",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.9031, 13.1439]
+          }
+        },
+        {
+          "name": "Chennai North",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.275, 13.0975]
+          }
+        },
+        {
+          "name": "Chennai South",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.25, 13.0431]
+          }
+        },
+        {
+          "name": "Chennai Central",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.234, 13.0813]
+          }
+        },
+        {
+          "name": "Sriperumbudur",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.0916, 12.972]
+          }
+        },
+        {
+          "name": "Kancheepuram",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.7152, 12.8342]
+          }
+        },
+        {
+          "name": "Arakkonam",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.6711, 13.0803]
+          }
+        },
+        {
+          "name": "Vellore",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.1448, 12.9184]
+          }
+        },
+        {
+          "name": "Krishnagiri",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.214, 12.5186]
+          }
+        },
+        {
+          "name": "Dharmapuri",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.1582, 12.1295]
+          }
+        },
+        {
+          "name": "Tiruvannamalai",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.0731, 12.2253]
+          }
+        },
+        {
+          "name": "Arani",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.2583, 12.6701]
+          }
+        },
+        {
+          "name": "Viluppuram",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.4971, 11.9396]
+          }
+        },
+        {
+          "name": "Kallakurichi",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.9634, 11.7382]
+          }
+        },
+        {
+          "name": "Salem",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.146, 11.6643]
+          }
+        },
+        {
+          "name": "Namakkal",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.1443, 11.225]
+          }
+        },
+        {
+          "name": "Erode",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.719, 11.341]
+          }
+        },
+        {
+          "name": "Tiruppur",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.3391, 11.1085]
+          }
+        },
+        {
+          "name": "Nilgiris",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.7337, 11.4134]
+          }
+        },
+        {
+          "name": "Coimbatore",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.9647, 11.0168]
+          }
+        },
+        {
+          "name": "Pollachi",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.0084, 10.6584]
+          }
+        },
+        {
+          "name": "Dindigul",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.9636, 10.3656]
+          }
+        },
+        {
+          "name": "Karur",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.0837, 10.9602]
+          }
+        },
+        {
+          "name": "Tiruchirappalli",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.7047, 10.7905]
+          }
+        },
+        {
+          "name": "Perambalur",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.8784, 11.2353]
+          }
+        },
+        {
+          "name": "Cuddalore",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.7645, 11.748]
+          }
+        },
+        {
+          "name": "Chidambaram",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.6957, 11.403]
+          }
+        },
+        {
+          "name": "Mayiladuthurai",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.6528, 11.1033]
+          }
+        },
+        {
+          "name": "Nagapattinam",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.8431, 10.764]
+          }
+        },
+        {
+          "name": "Thanjavur",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.1378, 10.7852]
+          }
+        },
+        {
+          "name": "Sivaganga",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.4799, 9.8431]
+          }
+        },
+        {
+          "name": "Madurai",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.1198, 9.9391]
+          }
+        },
+        {
+          "name": "Theni",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.4718, 10.0104]
+          }
+        },
+        {
+          "name": "Virudhunagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.9578, 9.586]
+          }
+        },
+        {
+          "name": "Ramanathapuram",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.7828, 9.3713]
+          }
+        },
+        {
+          "name": "Thoothukkudi",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.1359, 8.7642]
+          }
+        },
+        {
+          "name": "Tenkasi",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.3114, 8.9604]
+          }
+        },
+        {
+          "name": "Tirunelveli",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.7567, 8.7139]
+          }
+        },
+        {
+          "name": "Kanniyakumari",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.5385, 8.0883]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sikkim",
+      "number_of_loksabha_constituencies": 1,
+      "loksabha_constituencies": [
+        {
+          "name": "Sikkim",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.5122, 27.3314]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Telangana",
+      "number_of_loksabha_constituencies": 17,
+      "loksabha_constituencies": [
+        {
+          "name": "Adilabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.532, 19.6737]
+          }
+        },
+        {
+          "name": "Peddapalli",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.3747, 18.618]
+          }
+        },
+        {
+          "name": "Karimnagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.1288, 18.4386]
+          }
+        },
+        {
+          "name": "Nizamabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.094, 18.6725]
+          }
+        },
+        {
+          "name": "Zahirabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.6078, 17.6818]
+          }
+        },
+        {
+          "name": "Medak",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.2626, 17.8494]
+          }
+        },
+        {
+          "name": "Malkajgiri",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.5591, 17.4472]
+          }
+        },
+        {
+          "name": "Secunderabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.4983, 17.4399]
+          }
+        },
+        {
+          "name": "Hyderabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.4867, 17.385]
+          }
+        },
+        {
+          "name": "Chevella",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.0613, 17.3025]
+          }
+        },
+        {
+          "name": "Mahbubnagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.9856, 16.7488]
+          }
+        },
+        {
+          "name": "Nagarkurnool",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.3212, 16.48]
+          }
+        },
+        {
+          "name": "Nalgonda",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.2745, 17.0575]
+          }
+        },
+        {
+          "name": "Bhongir",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.8885, 17.515]
+          }
+        },
+        {
+          "name": "Warangal",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.6056, 17.9784]
+          }
+        },
+        {
+          "name": "Mahabubabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.0031, 17.597]
+          }
+        },
+        {
+          "name": "Khammam",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.1514, 17.2473]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tripura",
+      "number_of_loksabha_constituencies": 2,
+      "loksabha_constituencies": [
+        {
+          "name": "Tripura West",
+          "location": {
+            "type": "Point",
+            "coordinates": [91.275, 23.8335]
+          }
+        },
+        {
+          "name": "Tripura East",
+          "location": {
+            "type": "Point",
+            "coordinates": [91.9692, 23.8453]
+          }
+        }
+      ]
+    },
+    {
+      "name": "West Bengal",
+      "number_of_loksabha_constituencies": 42,
+      "loksabha_constituencies": [
+        {
+          "name": "Cooch Behar",
+          "location": {
+            "type": "Point",
+            "coordinates": [89.4378, 26.3303]
+          }
+        },
+        {
+          "name": "Alipurduars",
+          "location": {
+            "type": "Point",
+            "coordinates": [89.2218, 26.4837]
+          }
+        },
+        {
+          "name": "Jalpaiguri",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.7193, 26.5435]
+          }
+        },
+        {
+          "name": "Darjeeling",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.2636, 27.0417]
+          }
+        },
+        {
+          "name": "Raiganj",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.1486, 25.6413]
+          }
+        },
+        {
+          "name": "Balurghat",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.7778, 25.221]
+          }
+        },
+        {
+          "name": "Maldaha Uttar",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.2093, 25.0637]
+          }
+        },
+        {
+          "name": "Maldaha Dakshin",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.2088, 24.9788]
+          }
+        },
+        {
+          "name": "Jangipur",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.0433, 24.464]
+          }
+        },
+        {
+          "name": "Baharampur",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.2707, 24.1012]
+          }
+        },
+        {
+          "name": "Murshidabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.1306, 24.1788]
+          }
+        },
+        {
+          "name": "Krishnanagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.5, 23.4083]
+          }
+        },
+        {
+          "name": "Ranaghat",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.5657, 23.1815]
+          }
+        },
+        {
+          "name": "Bangaon",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.8235, 23.0662]
+          }
+        },
+        {
+          "name": "Barrackpore",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.3654, 22.7663]
+          }
+        },
+        {
+          "name": "Dum Dum",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.4103, 22.6229]
+          }
+        },
+        {
+          "name": "Barasat",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.4966, 22.7227]
+          }
+        },
+        {
+          "name": "Basirhat",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.9054, 22.6619]
+          }
+        },
+        {
+          "name": "Jaynagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.3577, 22.2048]
+          }
+        },
+        {
+          "name": "Mathurapur",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.282, 22.2292]
+          }
+        },
+        {
+          "name": "Diamond Harbour",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.1393, 22.1079]
+          }
+        },
+        {
+          "name": "Jadavpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.3645, 22.4951]
+          }
+        },
+        {
+          "name": "Kolkata Dakshin",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.3445, 22.5099]
+          }
+        },
+        {
+          "name": "Kolkata Uttar",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.3639, 22.6172]
+          }
+        },
+        {
+          "name": "Howrah",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.2636, 22.5958]
+          }
+        },
+        {
+          "name": "Uluberia",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.0977, 22.5692]
+          }
+        },
+        {
+          "name": "Sreerampur",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.2241, 22.7552]
+          }
+        },
+        {
+          "name": "Hooghly",
+          "location": {
+            "type": "Point",
+            "coordinates": [88.3591, 22.9187]
+          }
+        },
+        {
+          "name": "Arambagh",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.9144, 22.8836]
+          }
+        },
+        {
+          "name": "Tamluk",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.9534, 22.314]
+          }
+        },
+        {
+          "name": "Kanthi",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.8189, 21.9058]
+          }
+        },
+        {
+          "name": "Ghatal",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.679, 22.6765]
+          }
+        },
+        {
+          "name": "Jhargram",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.3328, 22.4515]
+          }
+        },
+        {
+          "name": "Medinipur",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.7728, 22.4216]
+          }
+        },
+        {
+          "name": "Purulia",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.3639, 23.33]
+          }
+        },
+        {
+          "name": "Bankura",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.325, 23.2376]
+          }
+        },
+        {
+          "name": "Bishnupur",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.4863, 22.394]
+          }
+        },
+        {
+          "name": "Bardhaman Purba",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.7134, 23.2343]
+          }
+        },
+        {
+          "name": "Bardhaman-Durgapur",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.328, 23.495]
+          }
+        },
+        {
+          "name": "Asansol",
+          "location": {
+            "type": "Point",
+            "coordinates": [86.9874, 23.6978]
+          }
+        },
+        {
+          "name": "Bolpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [87.6935, 23.6634]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Andaman and Nicobar Islands",
+      "number_of_loksabha_constituencies": 1,
+      "loksabha_constituencies": [
+        {
+          "name": "Andaman and Nicobar Islands",
+          "location": {
+            "type": "Point",
+            "coordinates": [92.6586, 11.7401]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chandigarh",
+      "number_of_loksabha_constituencies": 1,
+      "loksabha_constituencies": [
+        {
+          "name": "Chandigarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [76.7794, 30.7333]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "number_of_loksabha_constituencies": 2,
+      "loksabha_constituencies": [
+        {
+          "name": "Dadra and Nagar Haveli",
+          "location": {
+            "type": "Point",
+            "coordinates": [73.0169, 20.273]
+          }
+        },
+        {
+          "name": "Daman and Diu",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.8328, 20.4283]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lakshadweep",
+      "number_of_loksabha_constituencies": 1,
+      "loksabha_constituencies": [
+        {
+          "name": "Lakshadweep",
+          "location": {
+            "type": "Point",
+            "coordinates": [72.6396, 10.5667]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ladakh",
+      "number_of_loksabha_constituencies": 1,
+      "loksabha_constituencies": [
+        {
+          "name": "Ladakh",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.577, 34.1526]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Delhi",
+      "number_of_loksabha_constituencies": 7,
+      "loksabha_constituencies": [
+        {
+          "name": "Chandni Chowk",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.2264, 28.6562]
+          }
+        },
+        {
+          "name": "North East Delhi",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.2686, 28.7306]
+          }
+        },
+        {
+          "name": "East Delhi",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.3095, 28.629]
+          }
+        },
+        {
+          "name": "New Delhi",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.209, 28.6139]
+          }
+        },
+        {
+          "name": "North West Delhi",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.0481, 28.7395]
+          }
+        },
+        {
+          "name": "West Delhi",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.1025, 28.6517]
+          }
+        },
+        {
+          "name": "South Delhi",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.1892, 28.4975]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Puducherry",
+      "number_of_loksabha_constituencies": 1,
+      "loksabha_constituencies": [
+        {
+          "name": "Puducherry",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.8083, 11.9416]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "number_of_loksabha_constituencies": 5,
+      "loksabha_constituencies": [
+        {
+          "name": "Baramulla",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.3694, 34.209]
+          }
+        },
+        {
+          "name": "Srinagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.8081, 34.0837]
+          }
+        },
+        {
+          "name": "Anantnag",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.145, 33.7307]
+          }
+        },
+        {
+          "name": "Udhampur",
+          "location": {
+            "type": "Point",
+            "coordinates": [75.1416, 32.924]
+          }
+        },
+        {
+          "name": "Jammu",
+          "location": {
+            "type": "Point",
+            "coordinates": [74.856, 32.7266]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "number_of_loksabha_constituencies": 80,
+      "loksabha_constituencies": [
+        {
+          "name": "Saharanpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.5505, 29.964]
+          }
+        },
+        {
+          "name": "Kairana",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.2056, 29.3957]
+          }
+        },
+        {
+          "name": "Muzaffarnagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.6815, 29.4727]
+          }
+        },
+        {
+          "name": "Bijnor",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.1415, 29.3723]
+          }
+        },
+        {
+          "name": "Nagina",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.4323, 29.4413]
+          }
+        },
+        {
+          "name": "Moradabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.7568, 28.8386]
+          }
+        },
+        {
+          "name": "Rampur",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.0262, 28.7954]
+          }
+        },
+        {
+          "name": "Sambhal",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.5707, 28.5842]
+          }
+        },
+        {
+          "name": "Amroha",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.4706, 28.9044]
+          }
+        },
+        {
+          "name": "Meerut",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.7064, 28.9845]
+          }
+        },
+        {
+          "name": "Baghpat",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.2156, 28.9437]
+          }
+        },
+        {
+          "name": "Ghaziabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.4538, 28.6692]
+          }
+        },
+        {
+          "name": "Gautam Buddh Nagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.5232, 28.4595]
+          }
+        },
+        {
+          "name": "Bulandshahr",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.8491, 28.4106]
+          }
+        },
+        {
+          "name": "Aligarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.0822, 27.8808]
+          }
+        },
+        {
+          "name": "Hathras",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.0521, 27.5967]
+          }
+        },
+        {
+          "name": "Mathura",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.6673, 27.4924]
+          }
+        },
+        {
+          "name": "Agra",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.0081, 27.1767]
+          }
+        },
+        {
+          "name": "Fatehpur Sikri",
+          "location": {
+            "type": "Point",
+            "coordinates": [77.6682, 27.0932]
+          }
+        },
+        {
+          "name": "Firozabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.3984, 27.1599]
+          }
+        },
+        {
+          "name": "Mainpuri",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.0243, 27.2251]
+          }
+        },
+        {
+          "name": "Etah",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.6626, 27.5612]
+          }
+        },
+        {
+          "name": "Badaun",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.5941, 28.1019]
+          }
+        },
+        {
+          "name": "Aonla",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.151, 28.4056]
+          }
+        },
+        {
+          "name": "Bareilly",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.4309, 28.367]
+          }
+        },
+        {
+          "name": "Pilibhit",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.8047, 28.6467]
+          }
+        },
+        {
+          "name": "Shahjahanpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.9187, 27.8815]
+          }
+        },
+        {
+          "name": "Kheri",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.7819, 27.9021]
+          }
+        },
+        {
+          "name": "Dhaurahra",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.8003, 27.4992]
+          }
+        },
+        {
+          "name": "Sitapur",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.6774, 27.5687]
+          }
+        },
+        {
+          "name": "Hardoi",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.1686, 27.3978]
+          }
+        },
+        {
+          "name": "Misrikh",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.4516, 27.4141]
+          }
+        },
+        {
+          "name": "Unnao",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.4962, 26.5579]
+          }
+        },
+        {
+          "name": "Mohanlalganj",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.0302, 26.9492]
+          }
+        },
+        {
+          "name": "Lucknow",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.9462, 26.8467]
+          }
+        },
+        {
+          "name": "Rae Bareli",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.2461, 26.2514]
+          }
+        },
+        {
+          "name": "Amethi",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.844, 26.1483]
+          }
+        },
+        {
+          "name": "Sultanpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.0665, 26.281]
+          }
+        },
+        {
+          "name": "Pratapgarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.9207, 25.914]
+          }
+        },
+        {
+          "name": "Farrukhabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.5808, 27.4056]
+          }
+        },
+        {
+          "name": "Etawah",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.015, 26.7767]
+          }
+        },
+        {
+          "name": "Kannauj",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.9164, 27.055]
+          }
+        },
+        {
+          "name": "Kanpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.3319, 26.4499]
+          }
+        },
+        {
+          "name": "Akbarpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.5783, 26.4406]
+          }
+        },
+        {
+          "name": "Jalaun",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.37, 26.1442]
+          }
+        },
+        {
+          "name": "Jhansi",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.5696, 25.4545]
+          }
+        },
+        {
+          "name": "Hamirpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.0437, 25.8604]
+          }
+        },
+        {
+          "name": "Banda",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.3224, 25.4611]
+          }
+        },
+        {
+          "name": "Fatehpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.8015, 25.926]
+          }
+        },
+        {
+          "name": "Kaushambi",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.3998, 25.214]
+          }
+        },
+        {
+          "name": "Phulpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.1211, 25.667]
+          }
+        },
+        {
+          "name": "Allahabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.8463, 25.4358]
+          }
+        },
+        {
+          "name": "Barabanki",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.243, 26.9384]
+          }
+        },
+        {
+          "name": "Faizabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.1225, 26.7789]
+          }
+        },
+        {
+          "name": "Ambedkar Nagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.8308, 26.4695]
+          }
+        },
+        {
+          "name": "Bahraich",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.5912, 27.5795]
+          }
+        },
+        {
+          "name": "Kaiserganj",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.3966, 27.4511]
+          }
+        },
+        {
+          "name": "Shrawasti",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.0329, 27.4766]
+          }
+        },
+        {
+          "name": "Gonda",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.9548, 27.1345]
+          }
+        },
+        {
+          "name": "Basti",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.6906, 26.8023]
+          }
+        },
+        {
+          "name": "Sant Kabir Nagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.0263, 26.7716]
+          }
+        },
+        {
+          "name": "Maharajganj",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.4415, 27.1254]
+          }
+        },
+        {
+          "name": "Gorakhpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.364, 26.7785]
+          }
+        },
+        {
+          "name": "Kushi Nagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.8982, 26.7606]
+          }
+        },
+        {
+          "name": "Deoria",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.7833, 26.5142]
+          }
+        },
+        {
+          "name": "Bansgaon",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.0685, 26.6025]
+          }
+        },
+        {
+          "name": "Lalganj",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.8982, 26.7606]
+          }
+        },
+        {
+          "name": "Azamgarh",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.1878, 26.0614]
+          }
+        },
+        {
+          "name": "Ghosi",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.4993, 26.0281]
+          }
+        },
+        {
+          "name": "Salempur",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.5242, 26.0222]
+          }
+        },
+        {
+          "name": "Ballia",
+          "location": {
+            "type": "Point",
+            "coordinates": [84.1481, 25.855]
+          }
+        },
+        {
+          "name": "Jaunpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.6834, 25.7266]
+          }
+        },
+        {
+          "name": "Machhlishahr",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.1322, 25.5864]
+          }
+        },
+        {
+          "name": "Bhadohi",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.565, 25.3883]
+          }
+        },
+        {
+          "name": "Varanasi",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.9739, 25.3176]
+          }
+        },
+        {
+          "name": "Chandauli",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.2846, 25.2651]
+          }
+        },
+        {
+          "name": "Mirzapur",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.5589, 25.1521]
+          }
+        },
+        {
+          "name": "Robertsganj",
+          "location": {
+            "type": "Point",
+            "coordinates": [83.3664, 24.6849]
+          }
+        },
+        {
+          "name": "Allahabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.8463, 25.4358]
+          }
+        },
+        {
+          "name": "Fatehpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.8015, 25.926]
+          }
+        },
+        {
+          "name": "Kaushambi",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.3998, 25.214]
+          }
+        },
+        {
+          "name": "Phulpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.1211, 25.667]
+          }
+        },
+        {
+          "name": "Allahabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.8463, 25.4358]
+          }
+        },
+        {
+          "name": "Fatehpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.8015, 25.926]
+          }
+        },
+        {
+          "name": "Kaushambi",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.3998, 25.214]
+          }
+        },
+        {
+          "name": "Phulpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.1211, 25.667]
+          }
+        },
+        {
+          "name": "Allahabad",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.8463, 25.4358]
+          }
+        },
+        {
+          "name": "Fatehpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [80.8015, 25.926]
+          }
+        },
+        {
+          "name": "Kaushambi",
+          "location": {
+            "type": "Point",
+            "coordinates": [81.3998, 25.214]
+          }
+        },
+        {
+          "name": "Phulpur",
+          "location": {
+            "type": "Point",
+            "coordinates": [82.1211, 25.667]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Uttarakhand",
+      "number_of_loksabha_constituencies": 5,
+      "loksabha_constituencies": [
+        {
+          "name": "Tehri Garhwal",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.7735, 30.3777]
+          }
+        },
+        {
+          "name": "Garhwal",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.4566, 30.4305]
+          }
+        },
+        {
+          "name": "Almora",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.6612, 29.6139]
+          }
+        },
+        {
+          "name": "Nainital-Udhamsingh Nagar",
+          "location": {
+            "type": "Point",
+            "coordinates": [79.4257, 29.2405]
+          }
+        },
+        {
+          "name": "Haridwar",
+          "location": {
+            "type": "Point",
+            "coordinates": [78.1633, 29.9457]
+          }
+        }
+      ]
+    }
+  ]
+}
